@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slyneto
-- 🌱 I’m currently learning ... java script
+- 🌱 I’m currently learning ... java
 - 😄 Pronouns: she/her
 
 <!---
